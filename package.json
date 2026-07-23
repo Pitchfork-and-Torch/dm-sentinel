@@ -50,7 +50,7 @@
     "url": "https://github.com/Pitchfork-and-Torch/ghost-continuum.git"
   },
   "devDependencies": {
-    "wrangler": "^4.108.0"
+    "wrangler": "^4.114.0"
   }
 }
 
